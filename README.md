@@ -9,7 +9,7 @@ This project uses the **Dogs vs Cats dataset** from Kaggle:
 Make sure to download the dataset from Kaggle and organize the images into appropriate `train/` and `test/` folders as shown below.
 
 ## 🗂 Project Structure
-dataset/
+dataset
 
 ├── train/ # Training images (cats and dogs)
 
