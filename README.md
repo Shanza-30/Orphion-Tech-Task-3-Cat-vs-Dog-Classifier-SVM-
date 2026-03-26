@@ -1,6 +1,6 @@
 # Cat vs Dog Classifier using SVM
 
-This project demonstrates a simple **image classification pipeline** to distinguish cats and dogs using **Support Vector Machines (SVM)**. It covers data preprocessing, visualization, model training, evaluation, and prediction.
+This project task 3 orphion tech demonstrates a simple **image classification pipeline** to distinguish cats and dogs using **Support Vector Machines (SVM)**. It covers data preprocessing, visualization, model training, evaluation, and prediction.
 
 ## 📌 Dataset
 This project uses the **Dogs vs Cats dataset** from Kaggle:
